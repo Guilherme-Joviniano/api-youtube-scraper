@@ -8,7 +8,6 @@
     "dev": "nodemon ./bin/www/server.js",
     "start": "npx netlify-lambda serve src",
     "build": "npx netlify-lambda build src"
-
   },
   "keywords": [],
   "author": "",
